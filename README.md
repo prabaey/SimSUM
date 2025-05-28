@@ -1,6 +1,6 @@
 # SimSUM -- Simulated Benchmark with Structured and Unstructured Medical Records
 
-We present the SimSUM benchmark, a synthetic dataset linking unstructured clinical notes to structured background variables. The dataset consists of 10,000 artificial patient records containing tabular variables (like symptoms, diagnoses and underlying conditions) and related notes describing the fictional patient encounter in the domain of respiratory diseases. 
+We present the SimSUM benchmark, a simulated dataset linking unstructured clinical notes to structured background variables. The dataset consists of 10,000 artificial patient records containing tabular variables (like symptoms, diagnoses and underlying conditions) and related notes describing the fictional patient encounter in the domain of respiratory diseases. 
 
 ## Summary
 
